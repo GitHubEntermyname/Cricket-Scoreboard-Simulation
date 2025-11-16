@@ -1,0 +1,16 @@
+# C++ build artifacts
+*.exe
+*.out
+*.obj
+*.o
+*.log
+*.tmp
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+
+# Backup files
+*~
+*.bak
